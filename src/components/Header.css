@@ -1,0 +1,13 @@
+.header-container{
+    width: 100%;
+    height: 80px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.stopwatch{
+    font-size: 35px;
+    color: rgb(8, 6, 109);
+    align-self: center;
+}
